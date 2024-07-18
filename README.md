@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Katsro
-- 👀 I’m interested in mc
+Katsro Greyrat
 
 <!---
 Katsro/Katsro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
